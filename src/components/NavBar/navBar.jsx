@@ -20,7 +20,7 @@ export default function NavBar() {
             <StyledLink onClick={handleClick} to={'/contato'}>
                 <Span>CONTATO</Span>
             </StyledLink>
-            <StyledLink onClick={handleClick} to={'/'}>
+            <StyledLink onClick={handleClick} to={'/inscrever'}>
                 <Span>INSCREVA-SE</Span>
             </StyledLink>
         </Nav>
