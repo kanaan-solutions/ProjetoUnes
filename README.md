@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Projeto criado com base em alguns outros projetos meus e alguns layouts da página oficial da Uninove e da Unip.
+
 ## Available Scripts
 
 In the project directory, you can run:
